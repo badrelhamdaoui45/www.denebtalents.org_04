@@ -1,0 +1,33 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 04 Mar 2024 10:28:10 at https://www.denebtalents.org/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u0%h%B%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.denebtalents.org/ -O1 "C:\My Web Sites\https___www.denebtalents.org_04" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:28:15	Warning: 	Moved Permanently for static1.squarespace.com/static/6124dc288ff5567e0de5f52e/t/6124e4e9300e736165b42680/1629807849670/The+Talents+Raw+File-01.png?format=1500w
+10:28:15	Warning: 	Warning moved treated for static1.squarespace.com/static/6124dc288ff5567e0de5f52e/t/6124e4e9300e736165b42680/1629807849670/The+Talents+Raw+File-01.png?format=1500w (real one is https://images.squarespace-cdn.com/content/6124dc288ff5567e0de5f52e/9296f15e-91ba-40bc-a846-b2c53b375914/The+Talents+Raw+File-01.png?format=1500w&content-type=image%2Fpng)
+10:33:13	Warning: 	Found for https://www.denebtalents.org/rsidences-residencies
+10:33:13	Warning: 	File has moved from https://www.denebtalents.org/rsidences-residencies to /cross
+10:35:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://images.squarespace-cdn.com/content/v1/6124dc288ff5567e0de5f52e/1632259287398-GJ563T54BQBCFA2LDKJM/Montpellier.jpeg (from https://www.denebtalents.org/)
+10:36:51	Warning: 	Found for https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+10:36:51	Warning: 	Warning moved treated for https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png (real one is https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png)
+10:37:18	Warning: 	Found for https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+10:37:18	Warning: 	Warning moved treated for https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png (real one is https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png)
+10:37:51	Warning: 	Found for https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.png
+10:37:51	Warning: 	Warning moved treated for https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.png (real one is https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png)
+10:38:08	Warning: 	Found for https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+10:38:08	Warning: 	Warning moved treated for https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png (real one is https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png)
+10:38:21	Warning: 	Found for https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+10:38:21	Warning: 	Warning moved treated for https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png (real one is https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png)
+10:43:01	Warning: 	Retry after error -2 (Receive Time Out) at link assets.squarespace.com/universal/scripts-compressed/commerce-checkout-990e90d5176054330530-min.en-US.js (from https://www.denebtalents.org/cart)
+10:43:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://images.squarespace-cdn.com/content/v1/6124dc288ff5567e0de5f52e/1630911206460-IZ90BKQDGOS26HBLT867/tempImageYdqeaU.gif (from https://www.denebtalents.org/projets-projects)
+10:43:01	Warning: 	Retry after error -2 (Receive Time Out) at link https://images.squarespace-cdn.com/content/v1/6124dc288ff5567e0de5f52e/1630907396893-QXGJV9824LX0W36UZTAD/tempImageHIVamH.gif (from https://www.denebtalents.org/projets-projects)
+10:43:02	Warning: 	Retry after error -2 (Receive Time Out) at link https://images.squarespace-cdn.com/content/v1/6124dc288ff5567e0de5f52e/1630907645433-A74HEQ2KQNGNWKHX7L7S/tempImage3Ildgl.gif (from https://www.denebtalents.org/projets-projects)
+10:43:02	Warning: 	Precondition Failed for assets.squarespace.com/universal/scripts-compressed/commerce-checkout-990e90d5176054330530-min.en-US.js
+10:43:02	Warning: 	Warning moved treated for assets.squarespace.com/universal/scripts-compressed/commerce-checkout-990e90d5176054330530-min.en-US.js (real one is https://akamai-assets.squarespace.com/universal/scripts-compressed/commerce-checkout-990e90d5176054330530-min.en-US.js)
+10:43:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://akamai-assets.squarespace.com/universal/scripts-compressed/commerce-checkout-990e90d5176054330530-min.en-US.js
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 10 seconds : 80 links scanned, 67 files written (33551500 bytes overall) [33419172 bytes received at 36724 bytes/sec], 5766598 bytes transferred using HTTP compression in 1 files, ratio 27%
+(No errors, 22 warnings, 0 messages)
